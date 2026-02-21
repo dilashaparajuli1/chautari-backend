@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": 1771150933649,
+      "email": "admin@chautari.com",
+      "password_hash": "$2a$10$9btVKhTgKAJbdJfnNQyGleDZFUDqXX/HSVrY41xrHJ3fdov5CDJQe",
+      "name": "Administrator",
+      "role": "admin",
+      "member_since": "2026-02-15T10:22:13.724Z"
+    }
+  ],
+  "entries": []
+}
